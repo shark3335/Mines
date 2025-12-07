@@ -1,18 +1,31 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQUR7UpT7l0vC/giphy.gif" alt="Minesbot Premium" width="100%"/>
+  <img src="mines.jpg" alt="Minesbot" width="100%"/>
 </p>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/l0HlQ8O8v7X1PZr6s/giphy.gif" alt="Minesbot Premium" width="400"/>
+<h1 align="center" style="color: #FFD700; letter-spacing: 2px;">
+  MINESBOT
 </h1>
 
-<p align="center" style="font-size: 1.2em; color: #ccc;">
-Добро пожаловать в <strong>Minesbot Premium</strong> — премиальный веб-сайт Mines с элегантным черным фоном и золотыми акцентами. Играй, выигрывай и наслаждайся роскошным дизайном! 🎮
+<p align="center" style="font-size: 1.1em; color: #9ca3af;">
+Современный сайт для игры в Mines в тёмном стиле. Минимализм, стиль и игра 🎮
 </p>
 
 <p align="center">
-  <a href="https://vv-one394.life/v3/2158/1win-mines?p=o39x" style="display:inline-block; padding:20px 45px; font-size:1.3em; color:#0d0d0d; background:linear-gradient(45deg,#ffd700,#ffea00); border-radius:20px; text-decoration:none; box-shadow:0 0 40px #ffd700,0 0 70px #ffea00;">
-    Играть сейчас 🎮
+  <a href="https://vv-one394.life/v3/2158/1win-mines?p=o39x" style="
+    display:inline-block;
+    padding:18px 46px;
+    font-size:1.2em;
+    font-weight:bold;
+    color:#000;
+    background:linear-gradient(90deg,#FFD700,#FFC700);
+    border-radius:999px;
+    text-decoration:none;
+    box-shadow:0 10px 30px rgba(255,215,0,0.35);
+  ">
+    ▶ НАЧАТЬ ИГРУ
   </a>
 </p>
 
+<p align="center" style="margin-top: 30px; color: #555;">
+Minesbot ©
+</p>
